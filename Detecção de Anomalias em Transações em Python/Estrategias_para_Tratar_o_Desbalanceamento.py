@@ -5,6 +5,6 @@ from imblearn.over_sampling import SMOTE
 rus = RandomUnderSampler(random_state=42)
 X_train_rus, y_train_rus = rus.fit_resample(X_train, y_train)
 
-# Oversampling (SMOTE)
+# Oversampling
 smote = SMOTE(random_state=42)
 X_train_smote, y_train_smote = smote.fit_resample(X_train, y_train)
