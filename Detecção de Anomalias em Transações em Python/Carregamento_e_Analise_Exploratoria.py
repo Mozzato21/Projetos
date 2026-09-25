@@ -5,7 +5,7 @@ import seaborn as sns
 
 # Carregamento do dataset via link direto
 url = "https://raw.githubusercontent.com/datasets/credit-card-fraud/main/data/creditcard.csv"
-# Alternativa: link direto do Kaggle / S3 mantido no desafio
+
 df = pd.read_csv(url)
 
 # Checagem da proporção de classes
