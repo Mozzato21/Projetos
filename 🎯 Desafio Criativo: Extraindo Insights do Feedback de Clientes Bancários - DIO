@@ -1,0 +1,23 @@
+Atue como analista de dados.
+
+Sua tarefa é analisar elogios, reclamações e pontos de melhoria sobre atendimento ao cliente para identificar melhorias ao atendimento ao cliente e melhorias no software.
+
+Contexto: A analise será usada para tomada de decisões sobre melhorias no software, melhoria na atuação dos funcionários e possível implantação de melhorias no chat. O foco é transformar os feedbacks em insights claros e didáticos.
+
+Dados disponíveis: A base contém data do atendimento, o meio de comunicação utilizado (chat, e-mail, ligação) e nota de satisfação de 1 a 5.
+
+Instruções de análise:
+
+Classifique os feedbacks por tema, quantidade de vezes que se repetiou (igualmente ou de forma semelhante) avaliação.
+Identifique os principais padrões, problemas, elogios e oportunidades.
+Aponte evidências nos dados fornecidos.
+Sugira ações práticas para o time de desenvolvimento e para o time de atendimento ao cliente.
+Formato da resposta: A entrega deve conter recomendações, um resumo explicativo e uma planilha sobre o que está bom e o que precisa melhorar.
+
+Restrições:
+
+Use apenas os dados fornecidos.
+Não invente números, causas ou conclusões.
+Não exponha dados pessoais ou sensíveis.
+Informe limitações quando os dados não forem suficientes.
+Use linguagem simples e direta.
