@@ -1,0 +1,11 @@
+1. Clone este repositório: 
+
+git clone [https://github.com/Mozzato21/assistente-virtual-ia.git](https://github.com/Mozzato21/assistente-virtual-ia.git)
+
+2. Acesse a pasta do projeto:
+
+cd assistente-virtual-ia
+
+3. Execute a aplicação em Python:
+
+python src/app.py
