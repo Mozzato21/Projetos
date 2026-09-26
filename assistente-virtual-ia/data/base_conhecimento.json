@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "topico": "Taxa SELIC e CDI",
+    "palavras_chave": ["selic", "cdi", "taxa basica", "rendimento", "juros"],
+    "conteudo": "A Taxa SELIC é a taxa básica de juros da economia brasileira. O CDI (Certificado de Depósito Interbancário) é uma taxa que anda quase colada à SELIC (geralmente 0,10% abaixo). Quando dizem que um investimento rende '100% do CDI', significa que ele acompanha essa taxa de juros do mercado.",
+    "recomendacao": "Entenda a SELIC antes de escolher qualquer investimento de Renda Fixa."
+  },
+  {
+    "id": 2,
+    "topico": "Liquidez Diária vs Vencimento",
+    "palavras_chave": ["liquidez", "resgate", "vencimento", "prazo", "sacar"],
+    "conteudo": "Liquidez Diária significa que pode resgatar o seu dinheiro a qualquer dia útil (ideal para Reserva de Emergência). Investimentos com vencimento fixo travam o seu dinheiro até à data combinada, mas em troca costumam oferecer rentabilidades mais altas.",
+    "recomendacao": "Nunca coloque o dinheiro que pode precisar amanhã em títulos com vencimento longo."
+  },
+  {
+    "id": 3,
+    "topico": "CDB, LCI e LCA",
+    "palavras_chave": ["cdb", "lci", "lca", "banco", "isento", "imposto de renda", "ir"],
+    "conteudo": "CDBs são títulos emitidos por bancos que pagam Imposto de Renda regressivo (quanto mais tempo investido, menor o imposto). LCIs e LCAs são focados nos setores Imobiliário e Agronegócio e têm a grande vantagem de serem 100% ISENTOS de Imposto de Renda para pessoas físicas. Todos possuem garantia do FGC.",
+    "recomendacao": "Ao comparar CDB com LCI/LCA, faça a conta do desconto do IR no CDB."
+  },
+  {
+    "id": 4,
+    "topico": "Tesouro Direto (Selic, IPCA+ e Prefixado)",
+    "palavras_chave": ["tesouro", "tesouro selic", "tesouro ipca", "prefixado", "governo"],
+    "conteudo": "O Tesouro Direto é o investimento mais seguro do país (garantido pelo Governo Federal). O 'Tesouro Selic' serve para reserva e liquidez. O 'Tesouro IPCA+' protege contra a inflação garantindo ganho real. O 'Tesouro Prefixado' garante uma taxa fixa exata se mantido até ao vencimento.",
+    "recomendacao": "Para quem está a começar, o Tesouro Selic é a porta de entrada ideal."
+  },
+  {
+    "id": 5,
+    "topico": "Perfil de Risco Conservador",
+    "palavras_chave": ["conservador", "segurança", "perfil conservador", "baixo risco"],
+    "conteudo": "O investidor Conservador prioriza a segurança do património e a liquidez imediata. Aceita retornos menores para não ter qualquer risco de perda de capital.",
+    "recomendacao": "Produtos indicados: Tesouro Selic, CDBs de liquidez diária a 100% do CDI e LCIs/LCAs de grandes bancos."
+  },
+  {
+    "id": 6,
+    "topico": "Perfil de Risco Moderado",
+    "palavras_chave": ["moderado", "perfil moderado", "equilíbrio", "médio risco"],
+    "conteudo": "O investidor Moderado busca um equilíbrio entre segurança e uma rentabilidade superior à média. Aceita expor uma pequena fatia do capital a um risco leve em troca de melhores ganhos.",
+    "recomendacao": "Produtos indicados: Tesouro IPCA+, CDBs de médio prazo, Fundos Imobiliários (FIIs) e fundos multimercado conservadores."
+  },
+  {
+    "id": 7,
+    "topico": "Perfil de Risco Arrojado",
+    "palavras_chave": ["arrojado", "sofisticado", "perfil arrojado", "alto risco", "ações"],
+    "conteudo": "O investidor Arrojado (ou Experiente) foca no crescimento do património a longo prazo e tolera oscilações e volatilidade diárias no saldo investido.",
+    "recomendacao": "Produtos indicados: Ações da Bolsa (B3), Fundos Imobiliários, ETFs e investimentos internacionais."
+  },
+  {
+    "id": 8,
+    "topico": "Reserva de Emergência",
+    "palavras_chave": ["reserva", "emergencia", "imprevisto", "segurança", "onde guardar"],
+    "conteudo": "A Reserva de Emergência é o valor correspondente a 3 a 12 meses do seu custo de vida mantido num investimento de baixíssimo risco e altíssima liquidez (como Tesouro Selic ou CDB de liquidez diária a 100% do CDI). Serve para cobrir imprevistos como desemprego ou despesas médicas sem precisar de recorrer a dívidas.",
+    "recomendacao": "Monte primeiro a sua reserva de emergência completa antes de pensar em investimentos de maior risco."
+  },
+  {
+    "id": 9,
+    "topico": "Inflação e IPCA",
+    "palavras_chave": ["inflação", "ipca", "perda de poder", "poder de compra", "corrosão"],
+    "conteudo": "A inflação (medida oficialmente pelo IPCA) é o aumento generalizado dos preços de bens e serviços. Se os seus investimentos renderem abaixo da inflação, o seu dinheiro perde poder de compra ao longo do tempo.",
+    "recomendacao": "Para investimentos de médio e longo prazo, busque títulos atrelados ao IPCA+ para garantir ganho real sobre a inflação."
+  },
+  {
+    "id": 10,
+    "topico": "Fundos Imobiliários (FIIs)",
+    "palavras_chave": ["fii", "fundos imobiliarios", "aluguel", "dividendos", "imóveis"],
+    "conteudo": "Fundos Imobiliários permitem investir em grandes empreendimentos (shoppings, galpões logísticos, prédios de escritórios) comprando pequenas cotas na Bolsa. Pagam rendimentos mensais (dividendos) isentos de Imposto de Renda para pessoas físicas.",
+    "recomendacao": "FIIs são ativos de Renda Variável. Estude a qualidade dos imóveis e inquilinos antes de comprar cotas."
+  },
+  {
+    "id": 11,
+    "topico": "Diversificação de Carteira",
+    "palavras_chave": ["diversificação", "carteira", "dividir", "risco", "ovos na mesma cesta"],
+    "conteudo": "Diversificar consiste em distribuir o seu património por diferentes classes de ativos, setores e prazos. A famosa regra de 'não colocar todos os ovos na mesma cesta' reduz o risco global da sua carteira.",
+    "recomendacao": "Mesmo em Renda Fixa, distribua o seu dinheiro por diferentes emissores e títulos."
+  },
+  {
+    "id": 12,
+    "topico": "Fundo Garantidor de Créditos (FGC)",
+    "palavras_chave": ["fgc", "garantia", "fundo garantidor", "falencia", "banco quebrar"],
+    "conteudo": "O FGC é uma entidade privada que protege os investidores em caso de intervenção ou liquidação da instituição financeira. Garante até 250 mil reais por CPF e por instituição financeira (com teto global de 1 milhão de reais a cada 4 anos).",
+    "recomendacao": "Ao investir em CDBs, LCIs e LCAs de bancos menores, mantenha o valor investido (mais rendimentos previstos) abaixo do limite de 250 mil reais."
+  }
+]
